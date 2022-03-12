@@ -32,7 +32,7 @@ const Wrapper = styled.div`
   text-align: left;
 `;
 const Body = styled.div`
-  margin-top: 20px;
+  margin-top: 50px;
   display: flex;
 `;
 const Filter = styled.div`
@@ -41,7 +41,6 @@ const Filter = styled.div`
   height: 400px;
 `;
 const Items = styled.div`
-  border: 1px solid green;
   display: flex;
   width: 75%;
   height: 500px;

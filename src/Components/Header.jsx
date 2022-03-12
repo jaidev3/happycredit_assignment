@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styled from "styled-components";
-import { FiX } from "react-icons/fi";
+import { AiOutlineClose } from "react-icons/ai";
 
 function Header() {
   const [display, setDisplay] = useState("extension");
@@ -25,7 +25,7 @@ function Header() {
           </span>{" "}
         </p>
         <button onClick={() => handleClose()}>
-          <FiX />
+          <AiOutlineClose size="2em" />
         </button>
       </div>
     </Wrapper>
@@ -35,7 +35,6 @@ function Header() {
 export default Header;
 const Wrapper = styled.div`
   margin: auto;
-  /* border: 1px solid; */
   text-align: left;
   .headingbold {
     font-size: 64px;
@@ -54,16 +53,28 @@ const Wrapper = styled.div`
     height: 76px;
     border-radius: 10px;
     background-color: #d1e2ff;
-    justify-content: space-around;
     text-align: center;
     align-items: center;
   }
-
+  p {
+    width: 95%;
+  }
   span {
     text-decoration: underline;
+
     :hover {
       color: #316b83;
       cursor: pointer;
+    }
+  }
+  button {
+    border-radius: 40%;
+    background: none;
+    align-items: center;
+    border: none;
+    :hover {
+      cursor: pointer;
+      background-color: #316b83;
     }
   }
 `;

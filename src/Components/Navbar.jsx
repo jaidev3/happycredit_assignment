@@ -66,6 +66,7 @@ const Button1 = styled.button`
   :hover {
     background-color: black;
     color: white;
+    cursor: pointer;
   }
 `;
 const Button2 = styled.button`
@@ -80,5 +81,6 @@ const Button2 = styled.button`
   :hover {
     background-color: white;
     color: black;
+    cursor: pointer;
   }
 `;

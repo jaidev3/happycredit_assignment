@@ -41,7 +41,6 @@ function Categories() {
           <p>
             <input type="checkbox" /> 50-8-% off{" "}
           </p>
-  
         </div>
         <hr />
       </div>
@@ -52,6 +51,10 @@ function Categories() {
 export default Categories;
 
 const Wrapper = styled.div`
+  color: #616a6b;
   width: 100%;
   font-family: sans-serif;
+  p:hover {
+    cursor: pointer;
+  }
 `;

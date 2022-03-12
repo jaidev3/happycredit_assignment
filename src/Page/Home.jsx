@@ -3,6 +3,7 @@ import styled from "styled-components";
 import Navbar from "../Components/Navbar";
 import Header from "../Components/Header";
 import Categories from "../Components/Categories";
+import ItemBody from "../Components/ItemBody";
 
 function Home() {
   return (
@@ -14,7 +15,9 @@ function Home() {
           <Filter>
             <Categories />
           </Filter>
-          <Items></Items>
+          <Items>
+            <ItemBody />
+          </Items>
         </Body>
       </Wrapper>
     </div>

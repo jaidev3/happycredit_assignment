@@ -1,0 +1,890 @@
+[
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "2Modern",
+     "description": "For modern homes"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "25%",
+     "post": null,
+     "title": "American Eagle",
+     "description": "Be on top"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Ann Taylor",
+     "description": "Spring clothing"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Extra",
+     "discount": "25%",
+     "post": "off",
+     "title": "ASOS",
+     "description": "Fashion for fashionistas"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Extra",
+     "discount": "20%",
+     "post": "off",
+     "title": "Athleta",
+     "description": "Sustainable activewear"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "20%",
+     "post": null,
+     "title": "Aurate",
+     "description": "Our humankind sale"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "50%",
+     "post": null,
+     "title": "Banter by Piercing Pagoda",
+     "description": "Sparkle up your life"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "30%",
+     "post": "off",
+     "title": "Bed Bath & Beyond",
+     "description": "Sweet dreams"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "60%",
+     "post": "off",
+     "title": "Benefit Cosmetics",
+     "description": "Beauty faves"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "60%",
+     "post": "off",
+     "title": "Best Menswear",
+     "description": "Style on sale"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Free",
+     "discount": "Gift",
+     "post": null,
+     "title": "Bloomingdale's",
+     "description": "March fashion gift card event"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Free",
+     "discount": "Gift",
+     "post": null,
+     "title": "Bluemercury",
+     "description": "Get ready to glow"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "40%",
+     "post": null,
+     "title": "boohooMAN",
+     "description": "Get trendy"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "90%",
+     "post": "off",
+     "title": "Book Outlet",
+     "description": "Get a good book"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "15%",
+     "post": null,
+     "title": "Booking.com",
+     "description": "Book your next stay"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "20%",
+     "post": null,
+     "title": "Boux Avenue",
+     "description": "Style never sleeps"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "30%",
+     "post": "off",
+     "title": "Calvin Klein",
+     "description": "Layers and layers"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Camper",
+     "description": "Instantly iconic footwear"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$275",
+     "post": "off",
+     "title": "Charles Tyrwhitt",
+     "description": "Festive styles"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$50",
+     "post": "off",
+     "title": "Chico's",
+     "description": "Mix and match bracelets"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "50%",
+     "post": null,
+     "title": "Columbia Sportswear",
+     "description": "Stay sporty, look trendy"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$800",
+     "post": "off",
+     "title": "Dell",
+     "description": "Time to compute deals"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Dooney & Bourke",
+     "description": "Find the perfect bag"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "Fashion Nova",
+     "description": "Fill your fashion dreams"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Finish Line",
+     "description": "Fresh kicks"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "75%",
+     "post": "off",
+     "title": "FlightGuru",
+     "description": "Ready for spring break"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Foot Locker",
+     "description": "Sneak attack"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "50%",
+     "post": null,
+     "title": "Fragrance Outlet",
+     "description": "Parfume dreams"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "33%",
+     "post": "off",
+     "title": "GameStop",
+     "description": "Save and play"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Extra",
+     "discount": "40%",
+     "post": "off",
+     "title": "GAP",
+     "description": "Save on jackets"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$500",
+     "post": "off",
+     "title": "Go Ahead Tours",
+     "description": "The vacation of your dreams"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": null,
+     "discount": "2 for 1",
+     "post": null,
+     "title": "GreatCanvasPrints",
+     "description": "Canvas prints"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "Gymboree",
+     "description": "Generations of style"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "60%",
+     "post": "off",
+     "title": "H&M",
+     "description": "Clothing essentials"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": null,
+     "discount": "2 for 1",
+     "post": null,
+     "title": "Hollister",
+     "description": "Top deals"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$200",
+     "post": "off",
+     "title": "HP",
+     "description": "Computers and more"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "From",
+     "discount": "$59",
+     "post": null,
+     "title": "ILoveDooney",
+     "description": "Get carried away"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "JBL",
+     "description": "Better beats"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Extra",
+     "discount": "20%",
+     "post": "off",
+     "title": "JCPenney",
+     "description": "Spring style event"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "JD Sports",
+     "description": "Fresh this spring"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "Journeys",
+     "description": "Time for a new pair"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "60%",
+     "post": "off",
+     "title": "Karen Kane",
+     "description": "Clothes for all women"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "30%",
+     "post": null,
+     "title": "Kidsbooks.com",
+     "description": "Quality books"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "25%",
+     "post": null,
+     "title": "Kiehl's Canada",
+     "description": "Get ready to glow"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "25%",
+     "post": null,
+     "title": "Lane Bryant",
+     "description": "Fashion for every body"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "Lenovo",
+     "description": "Transform your world"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "30%",
+     "post": null,
+     "title": "Levi's",
+     "description": "Premium denim"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "30%",
+     "post": "off",
+     "title": "Lorex",
+     "description": "Big savings on security"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": null,
+     "title": "Lucky Brand",
+     "description": "Days in denim"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "Mango",
+     "description": "Make a fashion statement"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Martha.com",
+     "description": "For you and your home"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "From",
+     "discount": "$199",
+     "post": null,
+     "title": "Mattress Firm",
+     "description": "Get the best night’s rest"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "25%",
+     "post": null,
+     "title": "Michael Kors",
+     "description": "Spring accessories"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$30",
+     "post": "off",
+     "title": "Michaels",
+     "description": "Deals on Creative Tech"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "30%",
+     "post": null,
+     "title": "Myprotein",
+     "description": "Unwrap your ambition"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Nike",
+     "description": "Take it to the next level"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "25%",
+     "post": null,
+     "title": "No7",
+     "description": "Discover NO7 skincare"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Office Depot",
+     "description": "Home office"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "60%",
+     "post": "off",
+     "title": "Onlineshoes",
+     "description": "Shop the best shoe brands"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "Overstock",
+     "description": "Outdoor refresh"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "Perfumania",
+     "description": "Sweet scents"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "$50",
+     "post": null,
+     "title": "Persol",
+     "description": "View life better"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "30%",
+     "post": null,
+     "title": "Pinkapple Dresses",
+     "description": "Darling dresses"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "40%",
+     "post": null,
+     "title": "PrettyLittleThing",
+     "description": "Save on new looks"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "15%",
+     "post": null,
+     "title": "Priceline",
+     "description": "Adventure awaits"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "20%",
+     "post": null,
+     "title": "QVC",
+     "description": "Beauty update"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "25%",
+     "post": "off",
+     "title": "Radisson Hotels",
+     "description": "Time to relax"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Ralph Lauren",
+     "description": "Quality classics"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Reebok",
+     "description": "Shoe check up"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "20%",
+     "post": null,
+     "title": "Revolution Beauty US",
+     "description": "Find your shade"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "65%",
+     "post": "off",
+     "title": "REVOLVE",
+     "description": "Sale alert"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "$19.95",
+     "post": null,
+     "title": "Rodan + Fields",
+     "description": "Life-changing skin products"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "Perfumania",
+     "description": "Sweet scents"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "$50",
+     "post": null,
+     "title": "Persol",
+     "description": "View life better"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "30%",
+     "post": null,
+     "title": "Pinkapple Dresses",
+     "description": "Darling dresses"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "40%",
+     "post": null,
+     "title": "PrettyLittleThing",
+     "description": "Save on new looks"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "15%",
+     "post": null,
+     "title": "Priceline",
+     "description": "Adventure awaits"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "25%",
+     "post": "off",
+     "title": "Radisson Hotels",
+     "description": "Time to relax"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Ralph Lauren",
+     "description": "Quality classics"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Reebok",
+     "description": "Shoe check up"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "20%",
+     "post": null,
+     "title": "Revolution Beauty US",
+     "description": "Find your shade"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "65%",
+     "post": "off",
+     "title": "REVOLVE",
+     "description": "Sale alert"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "$19.95",
+     "post": null,
+     "title": "Rodan + Fields",
+     "description": "Life-changing skin products"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$700",
+     "post": "off",
+     "title": "Saks Fifth Avenue",
+     "description": "Score new styles"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "75%",
+     "post": null,
+     "title": "Saks OFF 5th",
+     "description": "Fine jewels"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "60%",
+     "post": "off",
+     "title": "Samuel Johnston",
+     "description": "The best baby products"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "Sephora",
+     "description": "Must-have beauty"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "SHEIN",
+     "description": "Dress to impress"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "SkinCareRx",
+     "description": "Self-care and beyond"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "SkinStore",
+     "description": "Care for your skin"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "70%",
+     "post": "off",
+     "title": "Sleeper",
+     "description": "Sleep in style"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "15%",
+     "post": null,
+     "title": "Solado",
+     "description": "Stunning styles"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "Sophia Webster",
+     "description": "Some pep for your step"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$500",
+     "post": "off",
+     "title": "Southwest Vacations",
+     "description": "Fill your vacation dreams"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "25%",
+     "post": null,
+     "title": "Spa Sciences",
+     "description": "Care for your skin"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "15%",
+     "post": null,
+     "title": "STADIUM GOODS",
+     "description": "Sneak it"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Steve Madden",
+     "description": "Beautiful shoes"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "25%",
+     "post": "off",
+     "title": "Stuart Weitzman",
+     "description": "Great shoe steels"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "25%",
+     "post": "off",
+     "title": "Target",
+     "description": "Refresh your space"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "30%",
+     "post": null,
+     "title": "Ted Baker",
+     "description": "Stylish options"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Special",
+     "discount": "20%",
+     "post": "off",
+     "title": "Teleflora",
+     "description": "Flowers for every occasion"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "20%",
+     "post": null,
+     "title": "The Body Shop",
+     "description": "Beauty and skincare sale"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "25%",
+     "post": "off",
+     "title": "The Home Depot",
+     "description": "Set the table"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Tommy Hilfiger",
+     "description": "Style yourself for spring"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "50%",
+     "post": null,
+     "title": "Torrid",
+     "description": "Plus-size clothing for women"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Under",
+     "discount": "$200",
+     "post": null,
+     "title": "Travelocity",
+     "description": "Great flight deals"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "$15",
+     "post": "off",
+     "title": "Turbotax",
+     "description": "Get your taxes done right"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "60%",
+     "post": null,
+     "title": "Udemy",
+     "description": "Quality education accessible to all"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "40%",
+     "post": "off",
+     "title": "Under Armour",
+     "description": "Women's sports gear"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Save",
+     "discount": "20%",
+     "post": null,
+     "title": "WoodWick",
+     "description": "Luxury candles"
+    },
+    {
+     "url": "../Images/img001.jpeg",
+     "pre": "Up to",
+     "discount": "50%",
+     "post": "off",
+     "title": "Yankee Candle",
+     "description": "Add light to winter"
+    }
+   ]

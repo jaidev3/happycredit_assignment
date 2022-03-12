@@ -1,13 +1,23 @@
-import { SHOW_ITEM } from "./actionType";
+import { SHOW_ITEM, SEARCH_ITEM, SORT_ITEM } from "./actionType";
 
-const initState = { loading: false, song: "", errors: false };
+const initState = { item: "" };
 
 const reducer = (state = initState, { type, payload }) => {
   switch (type) {
     case SHOW_ITEM:
       return {
         ...state,
-        song: payload,
+        item: payload,
+      };
+    case SEARCH_ITEM:
+      return {
+        ...state,
+        item: payload,
+      };
+    case SORT_ITEM:
+      return {
+        ...state,
+        item: payload,
       };
 
     default:

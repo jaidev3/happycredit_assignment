@@ -3,9 +3,11 @@ import styled from "styled-components";
 import Search from "./Search";
 import SingleItem from "./SingleItem";
 import data from "../ProjectData/db.json";
+import { useSelector } from "react-redux";
 
 function ItemBody() {
   const dataLength = data.length;
+  const searchValue = useSelector((state) => state.item);
   //console.log(data);
   return (
     <Wrapper>
@@ -19,11 +21,16 @@ function ItemBody() {
         </div>
       </Header>
       <Body>
-        {data.map((e, i) => (
-          <div key={i}>
-            <SingleItem value={e} />
-          </div>
-        ))}
+        {data
+          .filter((e) => {
+            if (searchValue == "") return e;
+            else if(e.title.toLowerCase().includes(searchValue.toLowerCase())) return e
+          })
+          .map((e, i) => (
+            <div key={i}>
+              <SingleItem value={e} />
+            </div>
+          ))}
       </Body>
     </Wrapper>
   );
@@ -48,7 +55,7 @@ const Body = styled.div`
   display: flex;
   flex-wrap: wrap;
   margin: auto;
-  column-gap: 15px;
+  column-gap: 20px;
   justify-content: center;
   margin-top: 15px;
 `;

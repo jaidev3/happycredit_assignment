@@ -21,12 +21,12 @@ function Header() {
           Pay in 4 anywhere with the Chrome extension.
           <span>
             {" "}
-            <b>Add to Chrome</b>
+            <b> Add to Chrome</b>
           </span>{" "}
         </p>
-        <button onClick={() => handleClose()}>
+        <Button title="close" onClick={() => handleClose()}>
           <AiOutlineClose size="2em" />
-        </button>
+        </Button>
       </div>
     </Wrapper>
   );
@@ -67,14 +67,27 @@ const Wrapper = styled.div`
       cursor: pointer;
     }
   }
-  button {
-    border-radius: 40%;
-    background: none;
-    align-items: center;
-    border: none;
-    :hover {
-      cursor: pointer;
-      background-color: #316b83;
+  @media (max-width: 768px) {
+    span {
+      display: block;
     }
+    .headingbold {
+      font-size: 36px;
+      font-weight: 600;
+      color: #0e0e0f;
+      font-family: sans-serif;
+      margin-bottom: 5px;
+      word-spacing: 0;
+    }
+  }
+`;
+const Button = styled.button`
+  border-radius: 40%;
+  background: none;
+  align-items: center;
+  border: none;
+  :hover {
+    cursor: pointer;
+    background-color: #316b83;
   }
 `;

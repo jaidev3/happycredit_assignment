@@ -1,6 +1,6 @@
 [
   {
-    "url": "./Images/img001.jpeg",
+    "url": "./Images/img001.webp",
     "pre": "Up to",
     "discount": "40%",
     "post": "off",
@@ -8,7 +8,7 @@
     "description": "For modern homes"
   },
   {
-    "url": "./Images/img002.jpeg",
+    "url": "./Images/img002.webp",
     "pre": "Save",
     "discount": "25%",
     "post": null,
@@ -16,7 +16,7 @@
     "description": "Be on top"
   },
   {
-    "url": "./Images/img003.png",
+    "url": "./Images/img003.webp",
     "pre": "Up to",
     "discount": "40%",
     "post": "off",
@@ -24,7 +24,7 @@
     "description": "Spring clothing"
   },
   {
-    "url": "./Images/img004.png",
+    "url": "./Images/img004.webp",
     "pre": "Extra",
     "discount": "25%",
     "post": "off",
@@ -32,7 +32,7 @@
     "description": "Fashion for fashionistas"
   },
   {
-    "url": "./Images/img005.jpeg",
+    "url": "./Images/img005.webp",
     "pre": "Extra",
     "discount": "20%",
     "post": "off",
@@ -40,7 +40,7 @@
     "description": "Sustainable activewear"
   },
   {
-    "url": "./Images/img006.jpeg",
+    "url": "./Images/img006.webp",
     "pre": "Save",
     "discount": "20%",
     "post": null,
@@ -48,7 +48,7 @@
     "description": "Our humankind sale"
   },
   {
-    "url": "./Images/img007.jpeg",
+    "url": "./Images/img007.webp",
     "pre": "Save",
     "discount": "50%",
     "post": null,
@@ -56,7 +56,7 @@
     "description": "Sparkle up your life"
   },
   {
-    "url": "./Images/img008.png",
+    "url": "./Images/img008.webp",
     "pre": "Up to",
     "discount": "30%",
     "post": "off",
@@ -64,7 +64,7 @@
     "description": "Sweet dreams"
   },
   {
-    "url": "./Images/img009.png",
+    "url": "./Images/img009.webp",
     "pre": "Up to",
     "discount": "60%",
     "post": "off",
@@ -72,7 +72,7 @@
     "description": "Beauty faves"
   },
   {
-    "url": "./Images/img010.jpeg",
+    "url": "./Images/img010.webp",
     "pre": "Up to",
     "discount": "60%",
     "post": "off",
@@ -80,7 +80,7 @@
     "description": "Style on sale"
   },
   {
-    "url": "./Images/img011.png",
+    "url": "./Images/img011.webp",
     "pre": "Free",
     "discount": "Gift",
     "post": null,
@@ -88,7 +88,7 @@
     "description": "March fashion gift card event"
   },
   {
-    "url": "./Images/img012.jpeg",
+    "url": "./Images/img012.webp",
     "pre": "Free",
     "discount": "Gift",
     "post": null,
@@ -96,7 +96,7 @@
     "description": "Get ready to glow"
   },
   {
-    "url": "./Images/img013.png",
+    "url": "./Images/img013.webp",
     "pre": "Save",
     "discount": "40%",
     "post": null,
@@ -104,7 +104,7 @@
     "description": "Get trendy"
   },
   {
-    "url": "./Images/img014.jpeg",
+    "url": "./Images/img014.webp",
     "pre": "Up to",
     "discount": "90%",
     "post": "off",
@@ -112,7 +112,7 @@
     "description": "Get a good book"
   },
   {
-    "url": "./Images/img015.jpeg",
+    "url": "./Images/img015.webp",
     "pre": "Save",
     "discount": "15%",
     "post": null,
@@ -120,7 +120,7 @@
     "description": "Book your next stay"
   },
   {
-    "url": "./Images/img016.jpeg",
+    "url": "./Images/img016.webp",
     "pre": "Save",
     "discount": "20%",
     "post": null,
@@ -128,7 +128,7 @@
     "description": "Style never sleeps"
   },
   {
-    "url": "./Images/img017.jpeg",
+    "url": "./Images/img017.webp",
     "pre": "Up to",
     "discount": "30%",
     "post": "off",
@@ -136,7 +136,7 @@
     "description": "Layers and layers"
   },
   {
-    "url": "./Images/img018.png",
+    "url": "./Images/img018.webp",
     "pre": "Up to",
     "discount": "40%",
     "post": "off",
@@ -144,7 +144,7 @@
     "description": "Instantly iconic footwear"
   },
   {
-    "url": "./Images/img019.png",
+    "url": "./Images/img019.webp",
     "pre": "Up to",
     "discount": "$275",
     "post": "off",
@@ -152,7 +152,7 @@
     "description": "Festive styles"
   },
   {
-    "url": "./Images/img020.png",
+    "url": "./Images/img020.webp",
     "pre": "Up to",
     "discount": "$50",
     "post": "off",
@@ -160,7 +160,7 @@
     "description": "Mix and match bracelets"
   },
   {
-    "url": "./Images/img021.png",
+    "url": "./Images/img021.webp",
     "pre": "Save",
     "discount": "50%",
     "post": null,
@@ -168,7 +168,7 @@
     "description": "Stay sporty, look trendy"
   },
   {
-    "url": "./Images/img022.jpeg",
+    "url": "./Images/img022.webp",
     "pre": "Up to",
     "discount": "$80",
     "post": "off",
@@ -176,7 +176,7 @@
     "description": "Time to compute deals"
   },
   {
-    "url": "./Images/img023.jpeg",
+    "url": "./Images/img023.webp",
     "pre": "Up to",
     "discount": "40%",
     "post": "off",
@@ -184,7 +184,7 @@
     "description": "Find the perfect bag"
   },
   {
-    "url": "./Images/img024.jpeg",
+    "url": "./Images/img024.webp",
     "pre": "Up to",
     "discount": "70%",
     "post": "off",
@@ -192,7 +192,7 @@
     "description": "Fill your fashion dreams"
   },
   {
-    "url": "./Images/img025.png",
+    "url": "./Images/img025.webp",
     "pre": "Up to",
     "discount": "40%",
     "post": "off",
@@ -200,7 +200,7 @@
     "description": "Fresh kicks"
   },
   {
-    "url": "./Images/img026.png",
+    "url": "./Images/img026.webp",
     "pre": "Up to",
     "discount": "75%",
     "post": "off",
@@ -208,7 +208,7 @@
     "description": "Ready for spring break"
   },
   {
-    "url": "./Images/img027.png",
+    "url": "./Images/img027.webp",
     "pre": "Up to",
     "discount": "40%",
     "post": "off",
@@ -216,7 +216,7 @@
     "description": "Sneak attack"
   },
   {
-    "url": "./Images/img028.png",
+    "url": "./Images/img028.webp",
     "pre": "Save",
     "discount": "50%",
     "post": null,
@@ -224,7 +224,7 @@
     "description": "Parfume dreams"
   },
   {
-    "url": "./Images/img029.png",
+    "url": "./Images/img029.webp",
     "pre": "Up to",
     "discount": "33%",
     "post": "off",
@@ -232,7 +232,7 @@
     "description": "Save and play"
   },
   {
-    "url": "./Images/img030.png",
+    "url": "./Images/img030.webp",
     "pre": "Extra",
     "discount": "40%",
     "post": "off",
@@ -240,7 +240,7 @@
     "description": "Save on jackets"
   },
   {
-    "url": "./Images/img031.png",
+    "url": "./Images/img031.webp",
     "pre": "Up to",
     "discount": "$50",
     "post": "off",

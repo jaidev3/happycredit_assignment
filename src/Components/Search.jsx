@@ -1,14 +1,23 @@
 import React from "react";
 import styled from "styled-components";
 import { BiSearch } from "react-icons/bi";
+import { useDispatch } from "react-redux";
+import { searchItem } from "../ReduxStore/action";
+
 function Search() {
+  let dispatch = useDispatch();
   return (
     <>
       <Wrapper>
         <BiSearch />
-        <Input placeholder="Search" type="text"></Input>
+        <Input
+          placeholder="Search"
+          type="text"
+          onChange={(e) => {
+            dispatch(searchItem(e.target.value));
+          }}
+        ></Input>
       </Wrapper>
-      {/* <hr></hr> */}
     </>
   );
 }

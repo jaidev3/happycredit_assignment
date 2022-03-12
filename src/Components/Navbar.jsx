@@ -14,7 +14,7 @@ function Navbar() {
         </div>
         <div>
           <Button1>
-            <b>Log in</b>
+            <b>Login</b>
           </Button1>
           <Button2>
             <b>Get the app</b>
@@ -30,11 +30,15 @@ export default Navbar;
 const Wrapper = styled.div`
   display: flex;
   justify-content: space-between;
+  width: 100%;
   padding: 10px;
   align-items: center;
   font-family: sans-serif;
   color: #343434;
-
+  position: fixed;
+  top: 0;
+  z-index: 100;
+  background-color: white;
   border-bottom: 1px solid #eaeaea;
   .nav_left {
     display: flex;
@@ -46,6 +50,11 @@ const Wrapper = styled.div`
       color: #316b83;
       text-decoration: underline;
       cursor: pointer;
+    }
+  }
+  @media (max-width: 768px) {
+    h4 {
+      display: none;
     }
   }
 `;
@@ -68,6 +77,9 @@ const Button1 = styled.button`
     color: white;
     cursor: pointer;
   }
+  @media (max-width: 768px) {
+    margin-right: 15px;
+  }
 `;
 const Button2 = styled.button`
   background-color: black;
@@ -78,9 +90,13 @@ const Button2 = styled.button`
   padding-left: 17px;
   padding-right: 17px;
   margin: 5px;
+  margin-right: 15px;
   :hover {
     background-color: white;
     color: black;
     cursor: pointer;
+  }
+  @media (max-width: 768px) {
+    display: none;
   }
 `;

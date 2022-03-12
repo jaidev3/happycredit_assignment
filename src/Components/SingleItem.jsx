@@ -4,25 +4,29 @@ import styled from "styled-components";
 function SingleItem({ value }) {
   const [data, setData] = useState({});
   useEffect(() => {
-    setData(value.pre);
+    getData();
   });
+
+  const getData = async () => {
+    await setData(value);
+  };
   console.log(value);
   return (
     <Wrapper>
       <Discount>
         <p>
-          <b>{value.pre}</b>
+          <b>{data.pre}</b>
         </p>
         <h3>
-          {value.discount}
+          {data.discount}
           <p>
-            <b>{value.post}</b>
+            <b>{data.post}</b>
           </p>
         </h3>
       </Discount>
-      <Img src={value.url} alt="product_image" />
-      <h4>{value.title}</h4>
-      <p>{value.description}</p>
+      <Img src={data.url} alt="product_image" />
+      <h4>{data.title}</h4>
+      <p>{data.description}</p>
     </Wrapper>
   );
 }
@@ -30,7 +34,7 @@ function SingleItem({ value }) {
 export default SingleItem;
 
 const Wrapper = styled.div`
-  width: 250px;
+  width: 230px;
   border-radius: 15px;
   margin-top: 30px;
   position: relative;
@@ -46,7 +50,8 @@ const Wrapper = styled.div`
   }
 `;
 const Img = styled.img`
-  width: 100%;
+  width: 230px;
+  height: 230px;
   border-radius: 15px;
 
   :hover {

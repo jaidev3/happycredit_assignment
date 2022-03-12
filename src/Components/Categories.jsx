@@ -23,23 +23,23 @@ function Categories() {
         <div>
           <h4>Types</h4>
           <p>
-            <input type="checkbox" /> Only Coupons
+            <input type="checkbox" title="filterCheckbox" /> Only Coupons
           </p>
           <p>
-            <input type="checkbox" /> Exclusives{" "}
+            <input type="checkbox" title="filterCheckbox" /> Exclusives{" "}
           </p>
           <p>
-            <input type="checkbox" /> BOGO and more
+            <input type="checkbox" title="filterCheckbox" /> BOGO and more
           </p>
         </div>
         <hr />
         <div>
           <h4>Discount</h4>
           <p>
-            <input type="checkbox" /> 0-49% off
+            <input type="checkbox" title="filterCheckbox" /> 0-49% off
           </p>
           <p>
-            <input type="checkbox" /> 50-8-% off{" "}
+            <input type="checkbox" title="filterCheckbox" /> 50-8-% off{" "}
           </p>
         </div>
         <hr />
@@ -51,8 +51,11 @@ function Categories() {
 export default Categories;
 
 const Wrapper = styled.div`
-  color: #616a6b;
-  width: 100%;
+  p{
+    color: #616a6b;
+  }
+
+  width: 90%;
   font-family: sans-serif;
   p:hover {
     cursor: pointer;

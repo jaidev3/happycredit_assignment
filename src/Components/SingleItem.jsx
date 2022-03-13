@@ -1,5 +1,9 @@
 import React, { useEffect, useState } from "react";
 import styled from "styled-components";
+import "../App.css";
+import Modal from "react-modal";
+import { AiOutlineClose } from "react-icons/ai";
+Modal.setAppElement("#root");
 
 function SingleItem({ value }) {
   const [data, setData] = useState({});
@@ -10,24 +14,67 @@ function SingleItem({ value }) {
   const getData = async () => {
     await setData(value);
   };
-  console.log(value);
+
+  //////Model/////////////////
+  const [isOpen, setIsOpen] = useState(false);
+  function toggleModal() {
+    setIsOpen(!isOpen);
+  }
+
+  //console.log(value);
   return (
-    <Wrapper>
-      <Discount>
-        <p>
-          <b>{data.pre}</b>
-        </p>
-        <h3>
-          {data.discount}
+    <>
+      <Wrapper>
+        <Discount>
           <p>
-            <b>{data.post}</b>
+            <b>{data.pre}</b>
           </p>
-        </h3>
-      </Discount>
-      <Img src={data.url} alt="product_image" />
-      <h4>{data.title}</h4>
-      <p>{data.description}</p>
-    </Wrapper>
+          <h3>
+            {data.discount}
+            <p>
+              <b>{data.post}</b>
+            </p>
+          </h3>
+        </Discount>
+
+        {/* model */}
+        <div className="mod">
+          <div onClick={toggleModal}>
+            {" "}
+            <Img src={data.url} alt="product_image" />
+          </div>
+          <Modal
+            isOpen={isOpen}
+            onRequestClose={toggleModal}
+            contentLabel="My dialog"
+            style={customStyles}
+          >
+            <Button onClick={toggleModal}>
+              <AiOutlineClose size="1em" />
+            </Button>
+            <Img1 src={data.url} alt="product_image" />
+            <Copycode className="copycode">
+              <h1>{data.title}</h1>
+              <div className="code">
+                <p>YourCode30</p>{" "}
+              </div>
+              <div className="copy">
+                <p>Copy code and shop</p>
+              </div>
+              <p>
+                Deals are offered directly by the retailer and subject to their
+                terms. Klarna does not guarantee any deal. Klarna may get a
+                commission.
+              </p>
+            </Copycode>
+          </Modal>
+        </div>
+        {/* //model ends// */}
+
+        <h4>{data.title}</h4>
+        <p>{data.description}</p>
+      </Wrapper>
+    </>
   );
 }
 
@@ -56,6 +103,52 @@ const Img = styled.img`
 
   :hover {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+  }
+`;
+const Img1 = styled.img`
+  width: 100%;
+  height: 500px;
+  padding: 0;
+  margin: 0;
+`;
+const Button = styled.button`
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-color: white;
+  align-self: end;
+  position: absolute;
+
+  :hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    cursor: pointer;
+  }
+`;
+const Copycode = styled.div`
+  text-align: center;
+  h1 {
+    margin: 0;
+    margin-left: 6px;
+    padding: 0;
+    text-align: left;
+  }
+  .code {
+    width: 95%;
+    background-color: #dcd8d7;
+    border: 1px solid;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+  }
+  .copy {
+    width: 95%;
+    background-color: black;
+    margin: auto;
+    color: white;
+    border: 1px solid;
+    text-align: center;
+    margin-top: 15px;
   }
 `;
 const Discount = styled.div`
@@ -63,7 +156,6 @@ const Discount = styled.div`
   position: absolute;
   top: 140px;
   left: 12px;
-  z-index: 1;
   h3 {
     display: flex;
     margin-top: -20px;
@@ -79,3 +171,23 @@ const Discount = styled.div`
     padding: 0;
   }
 `;
+
+const customStyles = {
+  content: {
+    display: "flex",
+    flexDirection: "column",
+    position: "relative",
+    top: "50%",
+    left: "50%",
+    right: "auto",
+    bottom: "auto",
+    marginRight: "-50%",
+    transform: "translate(-50%, -50%)",
+    width: "500px",
+    height: "770px",
+    borderRadius: "10px",
+    padding: "0",
+    margin: "0",
+    backgroundColor: "white",
+  },
+};

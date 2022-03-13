@@ -17,6 +17,7 @@ function Home() {
             <Categories />
           </Filter>
           <Items>
+            
             <ItemBody />
           </Items>
         </Body>

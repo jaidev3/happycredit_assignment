@@ -108,7 +108,7 @@ const Img = styled.img`
 `;
 const Img1 = styled.img`
   width: 100%;
-  height: 500px;
+  height: 50%;
   padding: 0;
   margin: 0;
 `;
@@ -139,7 +139,7 @@ const Copycode = styled.div`
     border: 1px solid;
     text-align: center;
     margin: auto;
-    margin-top: 15px;
+    margin-top: 10px;
   }
   .copy {
     width: 95%;
@@ -148,7 +148,7 @@ const Copycode = styled.div`
     color: white;
     border: 1px solid;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 10px;
   }
 `;
 const Discount = styled.div`
@@ -183,8 +183,8 @@ const customStyles = {
     bottom: "auto",
     marginRight: "-50%",
     transform: "translate(-50%, -50%)",
-    width: "500px",
-    height: "770px",
+    width: "400px",
+    height: "550px",
     borderRadius: "10px",
     padding: "0",
     margin: "0",

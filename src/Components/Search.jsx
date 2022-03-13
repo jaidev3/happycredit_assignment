@@ -3,7 +3,7 @@ import styled from "styled-components";
 import { BiSearch } from "react-icons/bi";
 import { useDispatch } from "react-redux";
 import { searchItem } from "../ReduxStore/action";
-import Modal from "./Model";
+
 function Search() {
   let dispatch = useDispatch();
   return (

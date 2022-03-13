@@ -17,7 +17,6 @@ function Home() {
             <Categories />
           </Filter>
           <Items>
-            
             <ItemBody />
           </Items>
         </Body>
@@ -44,7 +43,7 @@ const Filter = styled.div`
   width: 25%;
   height: 400px;
   @media (max-width: 768px) {
-   display: none;
+    display: none;
   }
 `;
 const Items = styled.div`
@@ -52,7 +51,6 @@ const Items = styled.div`
   width: 75%;
   height: 500px;
   @media (max-width: 768px) {
-   width: 100%;
+    width: 100%;
   }
 `;
-// const Search = styled.div``;
